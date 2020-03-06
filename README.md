@@ -5,6 +5,7 @@ A collection of blogs, podcasts, videos, etc. that I would recommend related to 
 
 * [yakuhito's blog](https://kuhi.to/): CTF writeups, programming.
 * [ropnop blog](https://blog.ropnop.com/): pentesting, with some interesting posts about docker, kubernetes, etc.
+* [Pentester Land](https://pentester.land/)
 
 ## Podcasts
 
