@@ -5,7 +5,7 @@ A collection of blogs, podcasts, videos, etc. that I would recommend related to 
 ## Blogs
 
 * [yakuhito's blog](https://kuhi.to/): CTF writeups, programming.
-* [ropnop blog](https://blog.ropnop.com/): pentesting, slight focus on modern day containerized infrastructure.
+* [ropnop blog](https://blog.ropnop.com/): pentesting, with some interesting posts about docker, kubernetes, etc.
 
 ## Podcasts
 
